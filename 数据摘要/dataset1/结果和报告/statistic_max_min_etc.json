@@ -1,0 +1,50 @@
+{
+ "existingstories": {
+  "max": 78.0,
+  "min": 0.0,
+  "mean": 5.705773271157344,
+  "midian": 3.0,
+  "quartiles": [
+   2.0,
+   3.0,
+   4.0
+  ],
+  "miss_num": 42782
+ },
+ "proposedstories": {
+  "max": 78.0,
+  "min": 0.0,
+  "mean": 5.745042683552092,
+  "midian": 3.0,
+  "quartiles": [
+   2.0,
+   3.0,
+   4.0
+  ],
+  "miss_num": 42866
+ },
+ "Estimated": {
+  "max": 537958646.0,
+  "min": 1.0,
+  "mean": 168955.44329681533,
+  "midian": 11000.0,
+  "quartiles": [
+   3300.0,
+   11000.0,
+   35000.0
+  ],
+  "miss_num": 38064
+ },
+ "Revised": {
+  "max": 780500000.0,
+  "min": 0.0,
+  "mean": 132856.18649174884,
+  "midian": 7000.0,
+  "quartiles": [
+   1.0,
+   7000.0,
+   28700.0
+  ],
+  "miss_num": 6064
+ }
+}

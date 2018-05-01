@@ -1,0 +1,40 @@
+{
+ "PlayType": {
+  "PlayType": 1,
+  "Kickoff": 23403,
+  "Pass": 159353,
+  "Run": 120831,
+  "Punt": 22003,
+  "Sack": 10649,
+  "Field Goal": 8928,
+  "No Play": 21414,
+  "Quarter End": 4914,
+  "Two Minute Warning": 3741,
+  "Timeout": 16206,
+  "Extra Point": 10063,
+  "QB Kneel": 3530,
+  "End of Game": 1973,
+  "Spike": 640,
+  "Half End": 40
+ },
+ "PassOutcome": {
+  "PassOutcome": 1,
+  "NA": 239506,
+  "Complete": 101278,
+  "Incomplete Pass": 66904
+ },
+ "PassLength": {
+  "PassLength": 1,
+  "NA": 240520,
+  "Short": 134729,
+  "Deep": 32438,
+  "20.0": 1
+ },
+ "PassLocation": {
+  "PassLocation": 1,
+  "NA": 240520,
+  "left": 60501,
+  "right": 67675,
+  "middle": 38992
+ }
+}
